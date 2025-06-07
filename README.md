@@ -1,7 +1,9 @@
  
 # 🏥 MeDI Hospital Website
-[live demo](https://samkaruri.github.io/medihospital/)
-A modern, responsive healthcare website for MeDI Hospital featuring comprehensive medical services, patient testimonials, and easy appointment booking.
+
+[Live demo on Github Pages](https://samkaruri.github.io/medihospital/)
+
+-A modern, responsive healthcare website for MeDI Hospital featuring comprehensive medical services, patient testimonials, and easy appointment booking.
 
 ## 📋 About
 
